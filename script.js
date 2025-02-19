@@ -19,3 +19,4 @@ function calcularFactorial(){
     // mostrar el resultado
     document.getElementById("resultado").innerHTML = `el factorial de ${numero} es: ${factorial}`;
 }
+
